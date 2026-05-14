@@ -390,3 +390,7 @@ label{
   .countdown-grid{grid-template-columns:1fr 1fr}
   .footer-wrap{font-size:var(--text-sm)}
 }
+.hero-photo {
+  grid-column: 1 / -1;
+  margin: var(--space-6) 0;
+}
